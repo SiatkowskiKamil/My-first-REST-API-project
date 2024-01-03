@@ -1,1 +1,7 @@
-__pycache__/
+.env
+.venv
+.vscode
+__pycache__
+data.db
+*.pyc
+.DS_Store
